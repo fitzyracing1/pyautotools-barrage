@@ -1,2 +1,5 @@
 # pyautotools-barrage
-Barrage plain-language clone of fitzyracing1/pyautotools
+
+Barrage clone of [fitzyracing1/pyautotools](https://github.com/fitzyracing1/pyautotools).
+
+Read [listing.barrage](listing.barrage).

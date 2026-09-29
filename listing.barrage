@@ -1,0 +1,38 @@
+# pyautotools
+
+> A Python automation toolbox repo. This wrap points back to the source files.
+
+## Purpose
+Give a plain-language door to fitzyracing1/pyautotools.
+
+## How it works (plain English)
+1. Keep the original repo as the place for tools.
+2. Use this clone to explain the idea.
+3. Send the reader back to the source to run a tool.
+
+## Key ideas
+- Python tools
+- Automation shelf
+
+## The actual code
+```
+# source: fitzyracing1/pyautotools
+open_source()
+run_tool()
+```
+
+## Line-by-line translation
+1. open_source() → “go to the toolbox repo”
+2. run_tool() → “pick one script and run it”
+
+## Decisions the program makes
+- If a reader needs a script → send them to the source
+
+## What a person would notice
+A named wrap on a Python tool shelf.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open fitzyracing1/pyautotools.
